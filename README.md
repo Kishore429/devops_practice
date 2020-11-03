@@ -2,4 +2,5 @@
 
 *********** WELCOME TO GIT LEARNING ***********
 
-@@@@@@@ DAY-1 @@@@@@@@
+            @@@@@@@ DAY-1 @@@@@@@@
+HAVE A GOODDAY
